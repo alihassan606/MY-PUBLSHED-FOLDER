@@ -1,0 +1,37 @@
+ul{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	background:linear-gradient(palegreen,lightgreen,white);
+}
+li{
+	float:left;
+}
+li a{
+	display:block;
+	color:white;
+	text-align:center;
+	padding:8px 16px;
+	text-decoration:none;
+}
+li a:hover{
+	background-color:Pink;
+}
+.hassan{
+	
+	padding:0px;
+	margin:0px;
+	background:linear-gradient(khaki,PeachPuff,Lightgreen,white);
+	font-size:20px;
+	color:red;
+}
+.ali{
+	background:linear-gradient(Lavender,violet,white);
+}
+.ahmed{
+	background:linear-gradient(Lavender,violet,white);
+}
+.khan{
+	background:linear-gradient(Lavender,violet,white);
+}
